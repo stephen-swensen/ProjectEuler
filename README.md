@@ -3,4 +3,4 @@ This repository includes the original source code to my solutions in F# to the f
 
 At this time, the solution is dependant on VS 2010 and has a number for project reference which assume certain GAC installations. As such, you may have trouble compiling as is. One day, I may update to a later version of VS with proper NuGet dependencies that don't make any local computer assumptions.
 
-This project represented my first serious foray into F#. It followed my initial serendepitous introduction via the original Expert F# by Don Syme, et al..
+This project represents my first serious foray into F#. It followed my initial serendepitous introduction via the original Expert F# by Don Syme, et al..
